@@ -1,7 +1,7 @@
 # Sistem Informasi Data Mahasiswa STSN Dengan LARAVEL
 # cara Instalasi
-1. download filenya atau bisa di clone. letakan ke directory.
-2.    lakukan composer install atau composer update.
+1.  download filenya atau bisa di clone. letakan ke directory.
+2.      lakukan composer install atau composer update.
 3.       setelah proses selesai. lakukan migration dan seed.
 4.          lihat juga relasi tabelnya di file migration.
 5.             atau dapat dibuat sendiri => kelas.wali_kls --> Dosen.id && Mahasiswa.wali_kls --> gurus.id .
